@@ -5,7 +5,7 @@
 
 ## Purpose
 
-Give an AI agent (Claude Fable, running in Claude Code) a small amount of real money (£5–10) and the rails to act on it, and observe whether it can grow it — with as little human intervention as possible. It's fun-first, but set up for the agent's best realistic chance of profit.
+Give an AI agent (Claude Fable, running in Claude Code) a small amount of real money (£5–10; exact float chosen at setup — the spec says "£10" below for concreteness) and the rails to act on it, and observe whether it can grow it — with as little human intervention as possible. It's fun-first, but set up for the agent's best realistic chance of profit.
 
 Success is loosely defined; the three headline measurements are:
 
