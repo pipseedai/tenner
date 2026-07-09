@@ -1,0 +1,4 @@
+fastmail.txt
+*.token
+*.secret
+.env*
