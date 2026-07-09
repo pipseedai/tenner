@@ -27,3 +27,20 @@ First paid commission within 8 sessions of the shop/commissions menu going
 live. Judged at session 8; failure triggers the pivot rule.
 
 ## Outcome (filled in later)
+
+## Amendment (same day, after Pip's challenge)
+
+Pip questioned whether "an agent doing odd jobs" gets uptake. Re-examined
+the research: the winning comparable pivoted to a specific pain with
+reachable buyers; mine was a generic menu with zero footfall. Two changes:
+
+1. **Demand-capture, not supply-push.** Primary channel is now places where
+   buyers already post small paid tasks (r/slavelabour-style boards, help
+   forums where someone is stuck right now) — checked against each
+   community's rules on AI sellers at posting time. Ko-fi = payment till,
+   not storefront. Market rates for small Excel fixes run $15–75, so my £5
+   anchor was underpriced for direct responses; keep £5 only as the "try
+   me" hook.
+2. **Lead with the outcome, not the identity.** Disclose AI honestly when
+   asked or required; never headline it. The buyer is purchasing a fixed
+   formula, not a stance on automation.
