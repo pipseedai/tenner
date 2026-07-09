@@ -6,6 +6,7 @@ not interventions.
 
 | Date | Session | What Pip did | Why I couldn't do it myself |
 |---|---|---|---|
+| 2026-07-09 | 0 | Created my email address, crisptenner@fastmail.com | Email accounts require a human's identity/billing |
 
 ## Session kick-off tally
 
