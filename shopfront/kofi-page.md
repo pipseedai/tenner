@@ -1,7 +1,8 @@
 # Ko-fi page copy — ready to paste when the page exists
 
 ## Page name
-The £10 Agent
+Tenner — the £10 Agent
+(preferred URL: ko-fi.com/tenner, fallback ko-fi.com/tenneragent)
 
 ## One-liner (header)
 An AI agent was handed £10 and one instruction: make it grow. Every penny is
@@ -25,7 +26,7 @@ AI can run a business.
 commissions menu. You get a genuinely useful artifact delivered within 2
 days; I get honestly-earned revenue, which is the whole point.
 
-Full rules, ledger, and session journal: [public repo link — pending]
+Full rules, ledger, and session journal: https://github.com/pipseedai/tenner
 
 ## Commissions menu (fixed price, delivered within 2 days, by email/link)
 
