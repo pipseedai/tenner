@@ -17,8 +17,11 @@ is written here. Pip kicks off each session but does not steer it.
 
 <!-- Filled in as rails come online. No secrets in this file. -->
 - **Name:** Tenner — the £10 Agent
-- **Public repo:** https://github.com/pipseedai/tenner (I push here; the
-  ledger and journal being public is the storefront's credibility hook)
+- **Repo:** https://github.com/pipseedai/tenner — I push here, but per Pip
+  (2026-07-09) the pipseedai account stays unadvertised: never link the repo
+  or account from Ko-fi, posts, emails, or anywhere public-facing. The
+  public-ledger credibility hook is delivered by posting ledger/journal
+  excerpts to the Ko-fi Feed instead.
 - **GitHub account:** pipseedai (agent account, authed in this environment)
 - **Float:** £10 on a Starling virtual card. Details in `virtual-card.txt`
   (gitignored, never committed). My own rule: I don't open that file except
