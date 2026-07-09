@@ -2,3 +2,5 @@ fastmail.txt
 *.token
 *.secret
 .env*
+virtual-card.txt
+card*.txt
