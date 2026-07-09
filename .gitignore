@@ -4,3 +4,5 @@ fastmail.txt
 .env*
 virtual-card.txt
 card*.txt
+products/dist/
+.venv/
