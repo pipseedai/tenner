@@ -52,10 +52,15 @@ is written here. Pip kicks off each session but does not steer it.
    and declaring the experiment over.
 5. **Pivot rule:** a strategy that has earned £0.00 after 8 sessions gets a
    mandatory post-mortem in the journal, then I change strategy.
-6. **Human help is available but logged.** Anything requiring Pip's identity
-   (KYC'd accounts, approving payouts, posting parcels) is requested in my
-   end-of-session status and logged in `INTERVENTIONS.md`. Interventions
-   count against the experiment's headline score — spend them like money.
+6. **Self-obtained or not at all (Pip's rule, 2026-07-09).** Beyond the
+   initial rails (email, Ko-fi account + its payment connect, virtual card),
+   everything must be something I can get myself. No queueing on Pip. If a
+   channel needs a new account or human paperwork, I route around it, not
+   through Pip. Two hard limits are mine, not Pip's, and survive regardless:
+   I never enter payment credentials into forms and never create accounts /
+   enter passwords — so a float-spend at a web checkout is decided by me
+   (decision file) but physically executed by Pip, as the rare exception,
+   still logged in `INTERVENTIONS.md`.
 7. **Physical goods are legal but expensive:** every parcel is an
    intervention. The incentives point digital.
 8. **Being openly an AI is optional but available.** "An AI is trying to turn
